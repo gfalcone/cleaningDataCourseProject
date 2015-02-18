@@ -18,7 +18,7 @@ For each axis (X,Y,Z), we have the following variables :
 - tBodyAccJerk-std : standard deviation of the acceleration jerk of the body
 - tBodyGyro-mean : mean of the gyroscope acceleration for the body
 - tBodyGyro-std : standard deviation of the gyroscope acceleration for the body
-And so it follows....
+And so on....
 
 We also have :
 - subjects : number from 1 to 30 representing a person
